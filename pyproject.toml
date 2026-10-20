@@ -1,0 +1,15 @@
+[project]
+name = "solarrenderer"
+description = "SolarRenderer: Few-Step Generative Reference Rendering"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/smthemex/ComfyUI-SolarRenderer"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "smthemex"
+DisplayName = "ComfyUI-SolarRenderer"
+Icon = ""
+includes = []
